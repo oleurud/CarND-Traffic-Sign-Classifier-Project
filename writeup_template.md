@@ -24,7 +24,7 @@ Here is an exploratory visualization of the data set. It is a bar chart showing 
 
 ![alt text](figure.jpg)
 
-We can see the dataset is not well distributed, which will make it difficult to learn our system.
+We can see the dataset is not well distributed, which will make it difficult to learn our system and for sure, it wuold be a good idea to create more images to equalize the dataset (doing small zooms, flips, ...)
 
 ###Design and Test a Model Architecture
 
