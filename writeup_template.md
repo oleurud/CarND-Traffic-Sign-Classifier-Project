@@ -22,7 +22,7 @@ The code for this step is contained in the third code cell of the IPython notebo
 
 Here is an exploratory visualization of the data set. It is a bar chart showing the number of images of each label.
 
-![alt text][figure.jpg]
+![alt text](figure.jpg)
 
 We can see the dataset is not well distributed, which will make it difficult to learn our system.
 
@@ -123,19 +123,28 @@ I am not sure, but I think that my results are not good enough... and 85% it is 
 
 Here are 10 German traffic signs which I have worked. The mayority are fine, maybe with a smalls bad details:
 
-![Speed limit (30km/h)][new-images/1.jpg]
+![Speed limit (30km/h)](new-images/1.jpg)
 Has a little cut in the bottom
-![Speed limit (50km/h)][new-images/2.jpg]
-![Speed limit (70km/h)][new-images/4.jpg]
+
+![Speed limit (50km/h)](new-images/2.jpg)
+
+![Speed limit (70km/h)](new-images/4.jpg)
 It's a little distorted
-![Yield][new-images/13.jpg]
-![Stop][new-images/14.jpg]
-![No entry][new-images/17.jpg]
+
+![Yield](new-images/13.jpg)
+
+![Stop](new-images/14.jpg)
+
+![No entry](new-images/17.jpg)
 Has a little cut in the bottom
-![Road work][new-images/25.jpg]
-![Wild animals crossing][new-images/31.jpg]
-![Keep right][new-images/38.jpg]
-![Roundabout mandatory][new-images/40.jpg]
+
+![Road work](new-images/25.jpg)
+
+![Wild animals crossing](new-images/31.jpg)
+
+![Keep right](new-images/38.jpg)
+
+![Roundabout mandatory](new-images/40.jpg)
 For me the unique with real problems, beacause the sign has parts of a tree in front
 
 
